@@ -11,15 +11,15 @@
  - 🥰Flutter Development for Beginners
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xyy9233&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyy9233&layout=compact&theme=material-palenight&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xyy9233&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyy9233&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/twtstudio/WePeiYang-Flutter">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=material-palenight" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=midnight-purple" />
 </a>
 <a href="https://github.com/xyy9233/xyy9233.github.io">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=material-palenight" />
+  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=midnight-purple" />
 </a>
