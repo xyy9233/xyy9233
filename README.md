@@ -17,10 +17,10 @@ I am a Chinese who is full of desire for knowledge~
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="[https://github.com/twtstudio/WePeiYang-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/xyy9233/xyy9233.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
