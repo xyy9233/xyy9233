@@ -1,7 +1,6 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm W3nL0u. ctfer~" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/xyy9233/xyy9233.github.io"><img width="80%" alt="Hello, I'm W3nL0u" src="./assets/hello.png" /></a></p>
 
 <br />
-
 I am a Chinese who is full of desire for knowledge~
 
 **About me**
