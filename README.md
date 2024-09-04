@@ -18,8 +18,8 @@
 
 
 <a href="https://github.com/twtstudio/WePeiYang-Flutter">
-  <img align="center" width="210px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=buefy" />
+  <img align="center" width="1050px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=buefy" />
 </a>
 <a href="https://github.com/xyy9233/xyy9233.github.io">
-  <img align="center" width="200px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=buefy" />
+  <img align="center" width="1000px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=buefy" />
 </a>
