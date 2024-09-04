@@ -1,7 +1,6 @@
 <p align="center"><a href="https://github.com/xyy9233/xyy9233.github.io"><img width="80%" alt="Hello, I'm W3nL0u" src="./assets/hello.png" /></a></p>
 
-<br />
-<br />
+
 
 🤗Energetic and 💕enthusiastic students from Tianjin University in China 
 
@@ -18,10 +17,9 @@
 #### Top Repositories
 
 
-<a href="[https://github.com/twtstudio/WePeiYang-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=buefy" />
+<a href="https://github.com/twtstudio/WePeiYang-Flutter">
+  <img align="right"alt="twtstudio/" width="21px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=WePeiYang-Flutter&theme=buefy" />
 </a>
 <a href="https://github.com/xyy9233/xyy9233.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=buefy" />
+  <img align="right" width="21px" src="https://github-readme-stats.vercel.app/api/pin/?username=xyy9233&repo=xyy9233.github.io&theme=buefy" />
 </a>
-
